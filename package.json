@@ -1,0 +1,25 @@
+{
+    "name": "collectd-mdadm",
+    "types": ["pack"],
+    "version": "0.1.0",
+    "homepage": "https://github.com/Temelio/shinken-pack-collectd-mdadm",
+    "author": "Alexandre Chaussier",
+    "description": "Collectd mdadm monitoring checks, using collectd-nagios plugin",
+    "contributors": [
+        {
+            "name": "Alexandre Chaussier",
+            "email": "alexandre.chaussier@temelio.com"
+        }
+    ],
+    "repository": "https://github.com/Temelio/shinken-pack-collectd-mdadm",
+   " keywords": [
+        "pack",
+        "collectd",
+        "mdadm"
+    ],
+   " dependencies": {
+        "collectd-base": ">=0.1.0",
+        "shinken": ">=2.4.3"
+    },
+    "license": "MIT"
+}

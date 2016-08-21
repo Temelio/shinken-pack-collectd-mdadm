@@ -1,0 +1,6 @@
+{
+    "name": "collectd-mdadm",
+    "description": "Checks to manage our mdadm collectd checks",
+    "path": "collectd-mdadm",
+    "macros": {}
+}
